@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Tatiana Gourianova's portfolio:
 
-You can use the [editor on GitHub](https://github.com/Tatiana-Gourianova/cv2/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Education
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Faculty of Psychology, St. Petersburg State
+university (diploma of professional retraining in
+specialty "Psychology" (the right to conduct professional
+activities in the field of organizational psychology and psychological
+personal support).
 
-### Markdown
+## Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+International Center «Sophus Lee»
 
-```markdown
-Syntax highlighted code block
+General director. Negotiating, correspondence with third parties and
+individuals. Cooperation with the Ministry of Science and
+technical policy. Preparation and holding of conferences and
+seminars. Recruitment.
 
-# Header 1
-## Header 2
-### Header 3
+## Skils
 
-- Bulleted
-- List
+Knowledge of English (TOEFL 500)
 
-1. Numbered
-2. List
+Driving license
 
-**Bold** and _Italic_ and `Code` text
+Experience in conducting intensives, summer schools, organizing the educational process, 
+conducting social and commercial projects
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Project:
 
-### Jekyll Themes
+[Medical apps](https://play.google.com/store/apps/details?id=com.treatment.binocularvision.way)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tatiana-Gourianova/cv2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[It's free on github's marketplace](https://github.com/marketplace/binocularvisionraces)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Achivments:
+
+[Intel](https://github.com/Tatiana-Gourianova/cv/blob/main/screans/Intel2.jpg)
+ 
+ 
+[Foto](https://github.com/Tatiana-Gourianova/cv/blob/main/screans/gurianova.png)
+ 
+&  ...
+  
+
