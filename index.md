@@ -2,11 +2,20 @@
 
 ## Education
 
+Faculty of Applied Mathematics of the Belarusian State
+BSU University (diploma with honors), specialization in
+mathematical modeling and software problems
+mathematical physics
+
 Faculty of Psychology, St. Petersburg State
 university (diploma of professional retraining in
 specialty "Psychology" (the right to conduct professional
 activities in the field of organizational psychology and psychological
 personal support).
+
+Epam. Web development in Java. Automated testing
+.Net
+
 
 ## Work
 
@@ -17,7 +26,19 @@ individuals. Cooperation with the Ministry of Science and
 technical policy. Preparation and holding of conferences and
 seminars. Recruitment.
 
+Belarusian universities
+
+Programmer, teach-lead and manager. Programming. Recruitment. Training in math, programming, robotics, graphics and
+web design for schoolchildren and students
+
+
+Academy of Sciences of Belarus. programming, scientific research
+
 ## Skils
+
+Programming, testing, management, teaching, writing (scientific, journalistic, reports,...)
+
+More than one hundred publications
 
 Knowledge of English (TOEFL 500)
 
